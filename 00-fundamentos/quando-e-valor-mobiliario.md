@@ -151,3 +151,157 @@ Se várias respostas forem “sim”, **freio de mão puxado**.
 - [x] Documento de radar inicial
 - [ ] Revisão jurídica futura
 - [ ] Versão estável
+
+---
+
+## Linguagem Proibida x Linguagem Permitida (Guia Prático de Comunicação)
+
+### Objetivo
+Evitar que **linguagem comercial ou institucional** transforme uma estrutura
+técnica/operacional em algo interpretável como **oferta de valor mobiliário**.
+
+Este guia deve ser usado em:
+- apresentações
+- one-pagers
+- sites
+- propostas comerciais
+- conversas com potenciais clientes/parceiros
+
+> **Regra de ouro:** a CVM analisa a mensagem como um todo.
+Não existe “palavra mágica” que salve uma comunicação ruim.
+
+---
+
+## 1) Linguagem PROIBIDA (alto risco regulatório)
+
+Evitar **sempre**, inclusive em rascunhos internos.
+
+### Retorno / rendimento
+- “rentabilidade”
+- “retorno garantido”
+- “yield”
+- “ganho mensal”
+- “renda passiva”
+- “distribuição automática de lucros”
+
+➡ Mesmo sem números, essas expressões **criam expectativa de retorno**.
+
+---
+
+### Liquidez / saída
+- “liquidez”
+- “revenda facilitada”
+- “mercado secundário”
+- “saída planejada”
+- “exit”
+- “recompra”
+
+➡ Liquidez é **estrutura de mercado**, não funcionalidade técnica.
+
+---
+
+### Segurança financeira
+- “investimento seguro”
+- “baixo risco”
+- “proteção do capital”
+- “risco controlado”
+
+➡ Quem define risco é o investidor/regulador, não o emissor/estruturador.
+
+---
+
+### Linguagem típica de oferta
+- “oportunidade”
+- “oferta exclusiva”
+- “últimas vagas”
+- “participe”
+- “invista”
+
+➡ Vocabulário de distribuição pública = alerta máximo.
+
+---
+
+## 2) Linguagem PERMITIDA (baixo risco, se usada corretamente)
+
+Estas expressões focam em **estrutura, processo e governança**, não em resultado.
+
+### Estrutura e operação
+- “estruturação”
+- “governança”
+- “organização de fluxos”
+- “definição de direitos e obrigações”
+- “regras contratuais”
+- “modelo operacional”
+
+---
+
+### Transparência e controle
+- “relatórios periódicos”
+- “prestação de contas”
+- “acompanhamento operacional”
+- “trilhas de auditoria”
+- “registro de eventos”
+
+---
+
+### Representação digital (sem promessa)
+- “representação digital de posição/direito”
+- “registro imutável de eventos”
+- “infraestrutura de controle”
+- “camada tecnológica de suporte”
+
+---
+
+### Limites explícitos (recomendado declarar)
+- “sem promessa de retorno”
+- “sem garantia de liquidez”
+- “sem aconselhamento de investimento”
+- “estrutura sujeita à validação jurídica”
+
+➡ **Declarar limites reduz risco**, não aumenta.
+
+---
+
+## 3) Exemplos práticos (antes x depois)
+
+### ❌ Antes (alto risco)
+“Token imobiliário com rentabilidade mensal e liquidez via marketplace.”
+
+### ✅ Depois (baixo risco)
+“Estrutura de governança e relatórios para ativos imobiliários,
+com representação digital de posições e regras contratuais,
+sem promessa de retorno ou liquidez.”
+
+---
+
+### ❌ Antes (alto risco)
+“Invista em imóveis a partir de tokens.”
+
+### ✅ Depois (baixo risco)
+“Consultoria para estruturação operacional e governança
+de projetos imobiliários existentes.”
+
+---
+
+## 4) Regra operacional interna (recomendado)
+
+Antes de qualquer material ir para fora:
+- aplicar checklist de linguagem
+- remover termos proibidos
+- reforçar limites (disclaimers)
+- validar com o “radar de valor mobiliário”
+
+Se houver dúvida:
+> **Reescrever para menos, não para mais.**
+
+---
+
+## Uso prático desta seção
+- Revisar apresentações e propostas
+- Treinar parceiros e prestadores
+- Proteger reputação e negócio
+- Facilitar conversa com advogado/regulador
+
+## Status
+- [x] Seção adicionada
+- [ ] Revisão periódica conforme prática de mercado
